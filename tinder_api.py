@@ -5,12 +5,12 @@ import config
 import requests
 
 headers = {
-    'app_version': '6.9.4',
-    'platform': 'ios',
-    "content-type": "application/json",
-    "User-agent": "Tinder/7.5.3 (iPhone; iOS 10.3.2; Scale/2.00)",
+  'app_version': '6.9.4',
+  'X-Auth-Token': '9bba92ae-9c7f-4b0c-bd50-3c7e5718be9b',
+  'User-agent': 'Tinder/7.5.3 (iPhone; iOS 10.3.2; Scale/2.00)',
+  'content-type': 'application/json',
+  'platform': 'ios'
 }
-
 
 def get_auth_token(fb_auth_token, fb_user_id):
     if "error" in fb_auth_token:
@@ -227,3 +227,5 @@ def match_info(match_id):
 #         return r.json()['results']
 #     except requests.exceptions.RequestException as e:
 #         print("Something went wrong. Could not get your Facebook friends:", e)
+
+

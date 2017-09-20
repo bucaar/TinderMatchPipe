@@ -1,0 +1,181 @@
+Forward messages
+a
+b
+c
+d
+d
+d
+d
+d
+d
+d
+d
+d
+Send message to 597ad021adb505551c2a44cd59c0946bd134935f459928e6 (7)
+{
+  "_id": "59c1bcdf24fc934354a31384",
+  "created_date": "2017-09-20T00:57:03.987Z",
+  "from": "59c0946bd134935f459928e6",
+  "match_id": "597ad021adb505551c2a44cd59c0946bd134935f459928e6",
+  "message": "Not much just got off work hbu",
+  "sent_date": "2017-09-20T00:57:03.987Z",
+  "to": "597ad021adb505551c2a44cd"
+}
+d
+d
+d
+Send message to 595afdd33b461472611ea24759c0946bd134935f459928e6 (7)
+{
+  "_id": "59c1bce09f7b524a5358ca48",
+  "created_date": "2017-09-20T00:57:04.192Z",
+  "from": "59c0946bd134935f459928e6",
+  "match_id": "595afdd33b461472611ea24759c0946bd134935f459928e6",
+  "message": "How about Saturday?",
+  "sent_date": "2017-09-20T00:57:04.192Z",
+  "to": "595afdd33b461472611ea247"
+}
+d
+d
+d
+Send message to 5994e1370859646b15ba830c59c0946bd134935f459928e6 (7)
+{
+  "_id": "59c1bce02014139e53d89d12",
+  "created_date": "2017-09-20T00:57:04.409Z",
+  "from": "59c0946bd134935f459928e6",
+  "match_id": "5994e1370859646b15ba830c59c0946bd134935f459928e6",
+  "message": "Hello!",
+  "sent_date": "2017-09-20T00:57:04.409Z",
+  "to": "5994e1370859646b15ba830c"
+}
+d
+d
+d
+d
+d
+Send message to 58ed6f959d5526350bd1562c59c0946bd134935f459928e6 (7)
+{
+  "_id": "59c1bce0ca2f6bc4061d0e71",
+  "created_date": "2017-09-20T00:57:04.667Z",
+  "from": "59c0946bd134935f459928e6",
+  "match_id": "58ed6f959d5526350bd1562c59c0946bd134935f459928e6",
+  "message": "Hey",
+  "sent_date": "2017-09-20T00:57:04.667Z",
+  "to": "58ed6f959d5526350bd1562c"
+}
+d
+d
+Send message to 54b1f3ee0e090a2956318c8759c0946bd134935f459928e6 (7)
+{
+  "_id": "59c1bce03a647dbb438145b5",
+  "created_date": "2017-09-20T00:57:04.873Z",
+  "from": "59c0946bd134935f459928e6",
+  "match_id": "54b1f3ee0e090a2956318c8759c0946bd134935f459928e6",
+  "message": "Hey! Skating with some kids, hbu?",
+  "sent_date": "2017-09-20T00:57:04.873Z",
+  "to": "54b1f3ee0e090a2956318c87"
+}
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+Send message to 59826964194ddc3959e6752259c0946bd134935f459928e6 (7)
+{
+  "_id": "59c1bce1607b8719541b9b93",
+  "created_date": "2017-09-20T00:57:05.082Z",
+  "from": "59c0946bd134935f459928e6",
+  "match_id": "59826964194ddc3959e6752259c0946bd134935f459928e6",
+  "message": "I mean if you're that curious you could meet me and find out for certain",
+  "sent_date": "2017-09-20T00:57:05.082Z",
+  "to": "59826964194ddc3959e67522"
+}
+d
+d
+d
+d
+d
+d
+d
+d
+Send message to 586ddab6fa93a7950a51fe0c59c0946bd134935f459928e6 (7)
+{
+  "_id": "59c1bce178871d8622caddb0",
+  "created_date": "2017-09-20T00:57:05.295Z",
+  "from": "59c0946bd134935f459928e6",
+  "match_id": "586ddab6fa93a7950a51fe0c59c0946bd134935f459928e6",
+  "message": "Oh nice how do you like that? I'm a maintenance man for Prairie properties",
+  "sent_date": "2017-09-20T00:57:05.295Z",
+  "to": "586ddab6fa93a7950a51fe0c"
+}
+d
+d
+d
+d
+Send message to 5270f653db83b33566000fba59c0946bd134935f459928e6 (7)
+{
+  "_id": "59c1bce1028f3c2207358bfd",
+  "created_date": "2017-09-20T00:57:05.514Z",
+  "from": "59c0946bd134935f459928e6",
+  "match_id": "5270f653db83b33566000fba59c0946bd134935f459928e6",
+  "message": "Lol hey whats up! So I'm writing a book and I'm struggling with the ending but was wondering if you could maybe help.",
+  "sent_date": "2017-09-20T00:57:05.514Z",
+  "to": "5270f653db83b33566000fba"
+}
+d
+d
+d
+d
+d
+d
+d
+d
+Send message to 54a8c839474350ec7386cb5f59c0946bd134935f459928e6 (7)
+{
+  "_id": "59c1bce25e52d15f4aa6d471",
+  "created_date": "2017-09-20T00:57:06.351Z",
+  "from": "59c0946bd134935f459928e6",
+  "match_id": "54a8c839474350ec7386cb5f59c0946bd134935f459928e6",
+  "message": "Hi how are you \ud83d\ude0a?",
+  "sent_date": "2017-09-20T00:57:06.351Z",
+  "to": "54a8c839474350ec7386cb5f"
+}
+d
+d
+Unpaired users: (1)
+[
+  "535f782b3afb806a570088db"
+]
+Ghosted users: (4)
+[
+  "5960689cfa14850173ad5cd0",
+  "59bc3d8ebdc5133d02947ab4",
+  "59c144dd404c9a0036578a40",
+  "58fcbba3cab19f77600f381e"
+]
+Unsent messages: (6)
+[
+  "59c19eafa5869c8d0c074c08",
+  "59c18ab4061fc4cf12ffd1ab",
+  "59c17001540d723543b786c7",
+  "59c1ab1855fbcd1e592c6b3b",
+  "59c1997d04c6b2680c0cbcad",
+  "59c16f9a5d78857b484991b7"
+]
